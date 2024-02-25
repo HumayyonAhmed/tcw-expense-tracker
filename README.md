@@ -30,7 +30,7 @@ Managing expenses is a common task, and this project provides an efficient solut
 
 1. **Clone the Repository:**
 ```
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/humayyonahmed/tcw-expense-tracker.git
 ```
 
 2. **Navigate to the Project Directory:**
